@@ -54,10 +54,12 @@
 
     <Button
         android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nie pamiętam hasła"
-        tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="470dp" />
+        android:textColor="#040303"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="477dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
