@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ekran logowania</string>
+    <string name="zaloguj_btn">Zaloguj</string>
+    <string name="zapamietaj_cb">Zapamiętaj mnie</string>
+    <string name="niepamietamhasla_btn">Nie pamiętam hasła</string>
 </resources>
