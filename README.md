@@ -1,0 +1,1 @@
+Jak zmieniam na orientacje poziomą to nie widać na ekranie guzika zaloguj i nie pmaiętam hasła (są zapewne poza ekranem)
